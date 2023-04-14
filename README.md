@@ -52,7 +52,7 @@ Used as a comparative dataset for PlaneGAN.
 
 ### Generating Single Images
 
-![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/single_image_example) <br>
+![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/single_image_example.jpg) <br>
 
 ### Interpolation of latent space 
 
