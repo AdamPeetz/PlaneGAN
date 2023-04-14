@@ -4,25 +4,29 @@ Generative Adversarial Networks for Images
 
 DCGAN with 16 million parameters displays its training outputs every 10 epochs:
 
-![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/aerospace_images_example.jpg) <br>
+
 
 ## Datasets
 
 ### Aerospace Dataset
 
-![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/anime_images_example.jpg) <br>
+![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/aerospace_images_example.jpg) <br>
+
+Used as the main test dataset for PlanGAN.
 
 #### Sources
 
 #### Preprocessing Steps
 
-Images scraped from the internet come in many different shapes and sizes. Images must be resized and scaled to a specific dimensions and values before they can be used by the GAN. Scaling down images also reduces the amount of storage space they consume. This allows the model to use fewer resources during its training phase.
+Images scraped from the internet come in many different shapes and sizes. Images must be resized and scaled to a specific dimensions and values before they can be used by the GAN. 
 
-AlexNet, a seminal CNN research effort by Krizhevsky et al. (2017), employed an image processing pipeline that downscaled images to 256x256 prior to inputting them in the model. In this pipeline, rectangular images were rescaled around the shortest side, and then the center was cropped out of them.
+AlexNet, a seminal CNN research effort by Krizhevsky et al. (2017), employed an image processing pipeline that downscaled images to 256x256 prior to inputting them in the model. In this pipeline, rectangular images were rescaled around the shortest side, and then the center was cropped out of them. This process was recreated to resize the images in the Areospace dataset.
 
 ### Anime Faces
 
-![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/latent_space_gif.gif) <br>
+![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/anime_images_example.jpg) <br>
+
+Used as a comparative dataset for PlaneGAN.
 
 #### Sources
 
