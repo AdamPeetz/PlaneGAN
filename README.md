@@ -16,6 +16,10 @@ Used as the main test dataset for PlanGAN.
 
 #### Sources
 
+Images for the aerospace dataset were taken from the ImageNet dataset and scrapped from Reddit. These two sources were combined to create a dataset with the following characteristics.
+
+![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/image_characteristics.jpg) <br>
+
 #### Preprocessing Steps
 
 Images scraped from the internet come in many different shapes and sizes. Images must be resized and scaled to a specific dimensions and values before they can be used by the GAN. 
@@ -30,7 +34,7 @@ Used as a comparative dataset for PlaneGAN.
 
 #### Sources
 
-#### Preprocessing Steps
+Kaggle.com. Retreived 4/14/2023 from https://www.kaggle.com/datasets/tianbaiyutoby/animegirl-faces
 
 ## Models
 
