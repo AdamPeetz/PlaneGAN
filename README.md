@@ -52,7 +52,7 @@ Kaggle.com. Retreived 4/14/2023 from https://www.kaggle.com/datasets/tianbaiyuto
 
 ### Conditional Deep Convolutional Generative Adversarial Network (CGAN)
 
-#### X Million Parameter CGAN Results: Aerospace
+#### 15 Million Parameter CGAN Results: Aerospace
 
 ## Creating GAN images
 
