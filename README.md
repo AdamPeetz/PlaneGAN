@@ -4,13 +4,29 @@ Generative Adversarial Networks for Images
 
 DCGAN with 16 million parameters displays its training outputs every 10 epochs:
 
-![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/DCGANGIF.gif) <br>
+![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/aerospace_images_example.jpg) <br>
 
 ## Datasets
 
 ### Aerospace Dataset
 
+![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/anime_images_example.jpg) <br>
+
+#### Sources
+
+#### Preprocessing Steps
+
+Images scraped from the internet come in many different shapes and sizes. Images must be resized and scaled to a specific dimensions and values before they can be used by the GAN. Scaling down images also reduces the amount of storage space they consume. This allows the model to use fewer resources during its training phase.
+
+AlexNet, a seminal CNN research effort by Krizhevsky et al. (2017), employed an image processing pipeline that downscaled images to 256x256 prior to inputting them in the model. In this pipeline, rectangular images were rescaled around the shortest side, and then the center was cropped out of them.
+
 ### Anime Faces
+
+![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/latent_space_gif.gif) <br>
+
+#### Sources
+
+#### Preprocessing Steps
 
 ## Models
 
@@ -83,3 +99,5 @@ r/tanks. (2023). Image dataset. reddit.com. retrieved 01/20/2023 ​
 r/tankporn. (2023). Image dataset. reddit.com. retrieved 01/20/2023 ​
 
 r/warplaneporn. (2023). Image dataset. Reddit.com. Retrieved 03/26/2023
+
+TianbaiYu-Toby. (2022). Anime Girl Faces. dataset. kaggle.com. Retreived 4/14/2023 from https://www.kaggle.com/datasets/tianbaiyutoby/animegirl-faces
