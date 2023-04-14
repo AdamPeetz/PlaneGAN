@@ -28,9 +28,9 @@ AlexNet, a seminal CNN research effort by Krizhevsky et al. (2017), employed an 
 
 ### Anime Faces
 
-![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/anime_images_example.jpg) <br>
+A second dataset was used to evaluate model performance against a simpler set of features. Anime faces cropped portrait style contain fewer features compared to multiple aerospace objects and should be easier for a GAN to memorize and create.
 
-Used as a comparative dataset for PlaneGAN.
+![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/anime_images_example.jpg) <br>
 
 #### Sources
 
