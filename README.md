@@ -28,11 +28,13 @@ AlexNet, a seminal CNN research effort by Krizhevsky et al. (2017), employed an 
 
 ### Anime Faces
 
-A second dataset was used to evaluate model performance against a simpler set of features. Anime faces cropped portrait style contain fewer features compared to multiple aerospace objects and should be easier for a GAN to memorize and create.
+A second dataset was used to evaluate model performance against a simpler set of features. Anime faces cropped portrait style contain fewer features compared to multiple aerospace objects and should be easier for a GAN to recreate.
+
+The anime faces dataset contains 2434 images from a single class.
 
 ![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/anime_images_example.jpg) <br>
 
-#### Sources
+#### Source
 
 Kaggle.com. Retreived 4/14/2023 from https://www.kaggle.com/datasets/tianbaiyutoby/animegirl-faces
 
