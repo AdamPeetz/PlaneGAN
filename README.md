@@ -44,15 +44,17 @@ Kaggle.com. Retreived 4/14/2023 from https://www.kaggle.com/datasets/tianbaiyuto
 
 #### 80 Million Parameter DCGAN Results: Aerospace
 
+![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/aerospace_training_example_dcgan.gif) <br>
+
 #### 60 Million Parameter DCGAN Results: AnimeFaces
+
+![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/anime_faces_training.gif) <br>
 
 ### Auxillary Classifier Deep Convolutional Generative Adversarial Network (ACGAN)
 
 #### 110 Million Parameter ACGAN Results: Aerospace
 
-### Conditional Deep Convolutional Generative Adversarial Network (CGAN)
-
-#### 15 Million Parameter CGAN Results: Aerospace
+![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/acgan_training_example.gif) <br>
 
 ## Creating GAN images
 
