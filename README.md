@@ -72,7 +72,7 @@ The input of a generative model is a hypersphere of noise referred to as latent 
 
 Points on a curve between areas of latent space can be fed into the model to create a smooth transition between two areas, interpolating the latent space of the model.
 
-Notebook location: https://github.com/AdamPeetz/PlaneGAN/blob/main/LatentInterpolationGenerator_V1.ipynb
+[Notebook location](https://github.com/AdamPeetz/PlaneGAN/blob/main/LatentInterpolationGenerator_V1.ipynb)
 
 ![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/latent_space_gif.gif) <br>
 
