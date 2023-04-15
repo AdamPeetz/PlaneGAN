@@ -20,6 +20,8 @@ Used as the main test dataset for PlanGAN.
 
 Images for the aerospace dataset were taken from the ImageNet dataset and scrapped from Reddit. These two sources were combined to create a dataset with the following characteristics.
 
+Get the dataset here: https://www.kaggle.com/datasets/gatewayadam/aerospace-images
+
 ![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/image_characteristics2.jpg) <br>
 
 #### Preprocessing Steps
