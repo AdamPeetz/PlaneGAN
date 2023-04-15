@@ -66,7 +66,7 @@ A trained generator model can be used to create unique images.
 
 ![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/single_image_example.jpg) <br>
 
-### Interpolation of latent space 
+### Interpolation of Latent Space 
 
 The input of a generative model is a hypersphere of noise referred to as latent space. The generative network learns to map different points in latent space to features of the dataset it is trained on. Inputting the same point in latent space results in the same generated outcome.  
 
