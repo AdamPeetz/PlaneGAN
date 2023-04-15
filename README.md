@@ -62,7 +62,7 @@ Kaggle.com. Retreived 4/14/2023 from https://www.kaggle.com/datasets/tianbaiyuto
 
 A trained generator model can be used to create unique images.
 
-Notebook location: https://github.com/AdamPeetz/PlaneGAN/blob/main/SingleImageGenerator_V1.ipynb
+[Notebook location](https://github.com/AdamPeetz/PlaneGAN/blob/main/SingleImageGenerator_V1.ipynb)
 
 ![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/single_image_example.jpg) <br>
 
