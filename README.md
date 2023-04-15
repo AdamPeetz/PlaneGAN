@@ -46,6 +46,15 @@ Kaggle.com. Retreived 4/14/2023 from https://www.kaggle.com/datasets/tianbaiyuto
 
 ### Deep Convolutional Generative Adversarial Network (DCGAN)
 
+####Model architecture: Defining a discriminator
+
+A discriminator network is used to predict whether an image is real or fake. Loss from the discriminator is used to train the generator to produce more convincing fake images over time.
+
+The discriminator takes an input that is the same size as the generator's output. The input tensor is down sampled through convolutional layers and flattened to make a prediction about whether that tensor is fake or real.
+
+#### Model architecture: Defining a generator
+A generator network is used to upscale noise into an image tensor. It takes a n-dimensional hypersphere as input and transposes that noise into a manifold of nodes that are reshaped into a cluster of small tensors. These tensors are upscaled in successive layers to create larger tensors which are mapped into a 3-layer image tensor of the desired size.
+
 #### 80 Million Parameter DCGAN Results: Aerospace
 
 ![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/aerospace_training_example_dcgan.gif) <br>
