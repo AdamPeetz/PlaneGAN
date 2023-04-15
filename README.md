@@ -2,11 +2,13 @@
 
 Generative Adversarial Networks for Images
 
-DCGAN with 16 million parameters displays its training outputs every 10 epochs:
+DCGAN with 16 million parameters displays its training outputs every 10 epochs for an aerospace dataset.
 
 ![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/DCGANGIF.gif) <br>
 
 ## Datasets
+
+Two datasets were use for model training.
 
 ### Aerospace Dataset
 
