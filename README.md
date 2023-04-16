@@ -56,11 +56,11 @@ A generator network is used to upscale noise into an image tensor. It takes a n-
 
 #### 80 Million Parameter DCGAN Results: Aerospace
 
-![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/aerospace_training_example_dcgan.gif) <br>
+![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/aero_gan_output.jpg) <br>
 
 #### 60 Million Parameter DCGAN Results: AnimeFaces
 
-![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/anime_faces_training.gif) <br>
+![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/anime_gan_output.jpg) <br>
 
 ### Auxillary Classifier Deep Convolutional Generative Adversarial Network (ACGAN)
 
