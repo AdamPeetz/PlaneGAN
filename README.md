@@ -88,7 +88,7 @@ A trained generator model can be used to create unique images.
 
 [Notebook location](https://github.com/AdamPeetz/PlaneGAN/blob/main/SingleImageGenerator_V1.ipynb)
 
-![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/single_image_example.jpg) <br>
+![alt text](https://github.com/AdamPeetz/imagehosting/blob/main/banner%20planes.jpg) <br>
 
 ### Interpolation of Latent Space 
 
